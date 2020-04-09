@@ -18,4 +18,5 @@ The easiest way to schedule a time to connect for a virtual meeting is to use [t
 You can also use the following methods to contact me:
 
 Email: [jordan@jordanfischer.me](mailto:jordan@jordanfischer.me)
+
 Phone: 267-536-9376
