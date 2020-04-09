@@ -11,7 +11,6 @@ Welcome to my personal webpage!
 A place to include any other types of information that you'd like to include about yourself.
 
 ### Contact me
-I would love to connect with you! 
 
 The easiest way to schedule a time to connect for a virtual meeting is to use [this link to my calender](https://calendly.com/jfischer-esq/15min) to schedule at your convenience. 
 
