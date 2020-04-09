@@ -13,7 +13,7 @@ A place to include any other types of information that you'd like to include abo
 ### Contact me
 I would love to connect with you! 
 
-The easiest way to schedule a time to connect for a virtual meeting is to use [this link to my calender] (https://calendly.com/jfischer-esq/15min) to schedule at your convenience. 
+The easiest way to schedule a time to connect for a virtual meeting is to use [this link to my calender](https://calendly.com/jfischer-esq/15min) to schedule at your convenience. 
 
 You can also use the following methods to contact me:
 
