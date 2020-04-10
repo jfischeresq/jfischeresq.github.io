@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Research
-permalink: /research/
+title: Projects
+permalink: /projects/
 ---
 
 As part of my work, I am involved in a nnumber of different projects, with the aim of furthering my own knowledge in privacy and security, as well as to help to explore concepts impacting societal privacy and security. 
