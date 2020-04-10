@@ -8,7 +8,7 @@ As part of my work, I am involved in a number of different projects, with the ai
 
 My research focuses on data privacy and cybersecurity, exploring the convergence of the law and technology and the practical implications of regional data protection regulations within a backdrop of the global economy. I like to apply my practical experience working with multinational companies to better understand the evolution of security and privacy within changing regulatory and legal frameworks to balance consumer and end-user rights with enterprise innovation and efficiencies. 
 
-My goal: develop real solutions in the privacy, security, and technology space to help society address the growing reliance on our digital universe.
+My goal: develop real solutions in the privacy, security, and technology space to help society address the growing reliance on technology in our digital universe.
 
 ### My Current Projects
 
