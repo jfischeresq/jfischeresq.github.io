@@ -22,7 +22,7 @@ One of the challenges in the privacy space for many entities is creating workabl
 
 3. <bold>Creating consistencies in global data privacy management</bold>
 
-With the explosion of privacy regulations in most regions of the world, a key question is <em>how do we great effective global solutions to privacy that meet varying, and sometimes conflicting, legal requirements?</em> 
+With the explosion of privacy regulations in most regions of the world, a key question is <em>how do we great effective global solutions to privacy that meet varying, and sometimes conflicting, legal requirements?</em> I work with multinational companies to research practical solutions to global privacy requirements.
 
 ### My Future Research Interests
 
