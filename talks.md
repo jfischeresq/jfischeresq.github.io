@@ -4,8 +4,6 @@ title: Talks
 permalink: /talks/
 ---
 
-### My Talks
-
 Anyone you has met me for about one minute would agree:  I *love* to talk. And, I am lucky to have some amazing opportunities to participate in conferences, symposiums, and other events all over the world where I speak on a variety of topics. 
 
 ### Past Talks
