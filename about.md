@@ -13,7 +13,7 @@ Welcome! This is my personal website where you can learn about all of the projec
 
 * I love to **travel**, and will take any excuse to hop on a plane to visit somehwere new, old -- you name it, I will agree to take the trip! My travel bug really took off in college when I lived in France (still one of my favorite countries!). 
 
-* I **coded this entire website on GitHub**. Yes, I am a lawyer. But, I am steadfastedly devoted to learning new and challenging things. Coding is soundly in that category! And, a **HUGE** thanks to [Conor Gilsenan](https://twitter.com/conorgil) for his continued patience with me learning this often confusing developer world!
+* I **coded this entire website on GitHub**. Yes, I am a lawyer. But, I am steadfastedly devoted to challenging myself to continue to learn. And, coding is soundly in the category of "new" for me! A **HUGE** thank you to [Conor Gilsenan](https://twitter.com/conorgil) for his continued patience with me learning this often confusing developer world!
 
 * I love, love, love being a **female entrepreneur** and building a business. It has been the greatest life challenge and the most rewarding thing to date. Yes, the days can be long, but the rewards are incredible. I hope that my story helps others to "take the leap" into entrepreneurship. I have never regretted it.
 
