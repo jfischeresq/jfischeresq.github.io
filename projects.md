@@ -6,7 +6,11 @@ permalink: /projects/
 
 As part of my work, I am involved in a number of different projects, with the aim of furthering my own knowledge in privacy and security, as well as to help to explore concepts impacting societal privacy and security. 
 
-### My Current Research
+My research focuses on data privacy and cybersecurity, exploring the convergence of the law and technology and the practical implications of regional data protection regulations within a backdrop of the global economy. I like to apply my practical experience working with multinational companies to better understand the evolution of security and privacy within changing regulatory and legal frameworks to balance consumer and end-user rights with enterprise innovation and efficiencies. 
+
+My goal: develop real solutions in the privacy, security, and technology space to help society address the growing reliance on our digital universe.
+
+### My Current Projects
 
 Currently, I am working on a number of different projects, both academically and in the private sector:
 
@@ -24,7 +28,7 @@ One of the challenges in the privacy space for many entities is creating workabl
 
 With the explosion of privacy regulations in most regions of the world, a key question is <em>how do we great effective global solutions to privacy that meet varying, and sometimes conflicting, legal requirements?</em> I work with multinational companies to research practical solutions to global privacy requirements.
 
-### My Future Research Interests
+### My Future Project and Research Interests
 
 In the near and distant future, I hope to work on projects on the following topics:
 
