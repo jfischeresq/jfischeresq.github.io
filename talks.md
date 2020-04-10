@@ -6,14 +6,13 @@ permalink: /talks/
 
 ### My Talks
 
-Anyone you has met me for about one minute would agree:  I *love* to talk. And, I have the amazing opportunity to participate in conferences, symposiums, and other events where I speak on a variety of topics. 
+Anyone you has met me for about one minute would agree:  I *love* to talk. And, I am lucky to have some amazing opportunities to participate in conferences, symposiums, and other events all over the world where I speak on a variety of topics. 
 
 ### Past Talks
 
-Here you can find links to my past talks:
+Here you can find links to some of my past talks:
 
 * Helsinki-Aalto Center for Information Security, ["The Impact of the EU’s GDPR on Northern American Companies and Cross-Border Data Management"](https://haic.fi/talks/), 2020.02.04
-
 
 ### Podcasts
 
