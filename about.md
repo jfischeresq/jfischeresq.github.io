@@ -6,22 +6,28 @@ permalink: /about/
 
 ### About Me
 Welcome! This is my personal website where can learn about all of the projects and activities I am working on! Here are some fun things about me:
-* I don't think I can ever sit 100% still. Sometimes, that can drive everyone around me *nuts*. 
-* I am an avid dog lover! My dog, Brody is probably one of my strongest supports in life! My travel requires that he spend a lot of time with his doggie grandparents but I love getting home to be with him! (Picture of us together below!).
-* I coded this entire website on GitHub. Yes, I am a lawyer. But, I am steadfastedly devoted to learning new and challenging things. Coding is soundly in that category! And, a **HUGE** thanks to [Conor Gilesnan](https://twitter.com/conorgil) for his continued patience with me learning the developer world!
-I love, love, love being a **female entrepreneur** and building a business. It has been the greatest life challenge and the most rewarding thing to date. Yes, the days can be long, but the rewards are incredible. I hope that my story helps others to "take the leap" into entrepreneurship. I have never regretted it.
+
+* I don't think I can ever sit 100% still. Sometimes, that can drive everyone around me *nuts*. But, I secretly think it is my ultimate superpower!
+
+* I am an avid **dog lover**! My dog, Brody is probably one of my strongest supports in life! My travel requires that he spend a lot of time with his doggie grandparents but I love getting home to be with him!.
+
+* I love to **travel**, and will take any excuse to hop on a plane to visit somehwere new, old -- you name it, I will agree to take the trip! My travel bug really took off in college when I lived in France (still one of my favorite countries!). 
+
+* I **coded this entire website on GitHub**. Yes, I am a lawyer. But, I am steadfastedly devoted to learning new and challenging things. Coding is soundly in that category! And, a **HUGE** thanks to [Conor Gilesnan](https://twitter.com/conorgil) for his continued patience with me learning the developer world!
+
+* I love, love, love being a **female entrepreneur** and building a business. It has been the greatest life challenge and the most rewarding thing to date. Yes, the days can be long, but the rewards are incredible. I hope that my story helps others to "take the leap" into entrepreneurship. I have never regretted it.
 
 I wear many "hats" in my day-to-day life! It keeps things interesting -- if not hectic sometimes. 
 
 #### Private Sector Lawyering
-I co-founded and manage [XPAN Law Group, LLC](www.xpanlawgroup.com), a boutique international and domestic cybersecurity and data privacy law firm. We are very proud to be a certified Women’s Business Enterprise (“WBE”) and Women Owned Small Business (“WOSB”). 
+As I alluded to above, my first (but certainly not last) leap into entrepreneurship is [XPAN Law Group, LLC](www.xpanlawgroup.com), a boutique international and domestic cybersecurity and data privacy law firm which I co-founded and activity co-manage. I am so proud of the business we have built, our role in changing the dialogue in how to provide legal services, and promoting women-owned law firms. 
 
-My practice focuses on all components of cybersecurity, data privacy, and the data lifecycle. With a global perspective, my clients work with our XPAN team to create cost-effective and business oriented approaches to technology and governance. 
+In my day-to-day practice, I focus on all components of cybersecurity, data privacy, and the data lifecycle. XPAN provides me with an opportunity to work with some really cool companies who are grappling with global perspectives in privacy, security, technology, and information governance. I try to maintain the perspective of creating cost-effective and business oriented approaches to these challenges. 
 
-If you are loooking to connect with my private practice, please contact me at [jfischer@xpanlawgroup.com](mailto:jfischer@xpanlawgroup.com).
+If you are loooking to connect with my private practice, please visit [XPAN's Webiste](www.xpanlawgroup.com) or contact me at [jfischer@xpanlawgroup.com](mailto:jfischer@xpanlawgroup.com).
 
 #### Professor Role
-Providing educational opportunities to students across a variety of of different disciplines and backgrounds is a true joy. I hope to make privacy, security, and technology more understandable so that we can all work on solutions.  
+I love teaching and working with students. It is a true joy to continue my learning journey by providing resources and courses across a variety of of different disciplines and backgrounds. My hope is that through these educational avenues, more of us can work together to create solutions to the challenges in privacy, security, and technology.  
 
 * At Drexel University, I am a faculty member of the Thomas R. Kline School of Law. In that role, I educate law students in European data protection laws and general data privacy laws. I also work with undergradaute students at the Le Bow College of Business to provide basics in privacy laws. Check out my [Drexel profile](https://drexel.edu/law/faculty/fulltime_fac/jordan-fischer/).
 * At Chestnut Hill College, I provide a course in the Master of Cybersecurity program focused on cybersecurity law. Check out the [CHC Master of Cybersecurity program](https://www.chc.edu/graduate-cybersecurity). 
