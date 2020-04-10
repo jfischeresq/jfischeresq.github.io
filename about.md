@@ -9,11 +9,11 @@ Welcome! This is my personal website where can learn about all of the projects a
 
 * I don't think I can ever sit 100% still. Sometimes, that can drive everyone around me *nuts*. But, I secretly think it is my ultimate superpower!
 
-* I am an avid **dog lover**! My dog, Brody is probably one of my strongest supports in life! My travel requires that he spend a lot of time with his doggie grandparents but I love getting home to be with him!.
+* I am an avid **dog lover**! My dog, Brody is always up for cuddles, walks and runs in Philadelphia, and just hannging out! My travel requires that Brody visit his doggie grandparents often (who also spoil him a lot!). But, he will, I am sure, make many appearances on this website!
 
 * I love to **travel**, and will take any excuse to hop on a plane to visit somehwere new, old -- you name it, I will agree to take the trip! My travel bug really took off in college when I lived in France (still one of my favorite countries!). 
 
-* I **coded this entire website on GitHub**. Yes, I am a lawyer. But, I am steadfastedly devoted to learning new and challenging things. Coding is soundly in that category! And, a **HUGE** thanks to [Conor Gilesnan](https://twitter.com/conorgil) for his continued patience with me learning the developer world!
+* I **coded this entire website on GitHub**. Yes, I am a lawyer. But, I am steadfastedly devoted to learning new and challenging things. Coding is soundly in that category! And, a **HUGE** thanks to [Conor Gilesnan](https://twitter.com/conorgil) for his continued patience with me learning this often confusing developer world!
 
 * I love, love, love being a **female entrepreneur** and building a business. It has been the greatest life challenge and the most rewarding thing to date. Yes, the days can be long, but the rewards are incredible. I hope that my story helps others to "take the leap" into entrepreneurship. I have never regretted it.
 
@@ -22,7 +22,7 @@ I wear many "hats" in my day-to-day life! It keeps things interesting -- if not 
 #### Private Sector Lawyering
 As I alluded to above, my first (but certainly not last) leap into entrepreneurship is [XPAN Law Group, LLC](www.xpanlawgroup.com), a boutique international and domestic cybersecurity and data privacy law firm which I co-founded and activity co-manage. I am so proud of the business we have built, our role in changing the dialogue in how to provide legal services, and promoting women-owned law firms. 
 
-In my day-to-day practice, I focus on all components of cybersecurity, data privacy, and the data lifecycle. XPAN provides me with an opportunity to work with some really cool companies who are grappling with global perspectives in privacy, security, technology, and information governance. I try to maintain the perspective of creating cost-effective and business oriented approaches to these challenges. 
+In my day-to-day practice, I focus on all components of cybersecurity, data privacy, and the data lifecycle. XPAN provides me with an opportunity to work with some really cool companies who are grappling with global perspectives in privacy, security, technology, and information governance. As a business owner myself, I try to maintain the perspective of creating cost-effective and business oriented approaches to these challenges. 
 
 If you are loooking to connect with my private practice, please visit [XPAN's Webiste](www.xpanlawgroup.com) or contact me at [jfischer@xpanlawgroup.com](mailto:jfischer@xpanlawgroup.com).
 
@@ -38,5 +38,5 @@ The easiest way to schedule a time to connect for a virtual meeting is to use [t
 
 You can also use the following methods to contact me:
 
-* Email: [info@jordanfischer.me](mailto:info@jordanfischer.me)
+* Email: [hello@jordanfischer.me](mailto:hello@jordanfischer.me)
 * Phone: 267-536-9376
