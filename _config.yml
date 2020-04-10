@@ -9,7 +9,7 @@ name: "Jordan L. Fischer, Esq."
 description: "Lawyer, Professor, Writer, Developer, and Learner."
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar: https://raw.githubusercontent.com/barryclark/jekyll-now/master/images/jekyll-logo.png
+avatar: https://raw.githubusercontent.com/jfischeresq/jfischeresq.github.io/master/images/(2020-03-30) JF Avatar.png
 
 #
 # Flags below are optional
@@ -19,7 +19,7 @@ avatar: https://raw.githubusercontent.com/barryclark/jekyll-now/master/images/je
 footer-links:
   email: "jorfisc@gmail.com"
   github: "jfischeresq"
-  linkedin: 
+  linkedin: "https://www.linkedin.com/in/jordan-fischer-cipp-e-cipp-us-cipm-706b4147/"
   rss: # just type anything here for a working RSS icon
   twitter: "@jfischeresq"
   youtube: # channel/<your_long_string> or user/<user-name
