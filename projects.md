@@ -14,17 +14,17 @@ My goal: develop real solutions in the privacy, security, and technology space t
 
 Currently, I am working on a number of different projects, both academically and in the private sector:
 
-1. **Blockchain and Data Protection Laws**
+* **Blockchain and Data Protection Laws**
 
 My initial research on this topic is summarized in this blog post, ["Blockchain and Data Protection Laws: Can they Co-Exist?"](https://xpanlawgroup.com/blockchain-and-data-protection-laws-can-they-co-exist/). 
 
 I continue to expand my research, focusing on legislative and governmental approaches to creating workable solutions to creating blockchain solutions <em>with</em> privacy built-in. 
 
-2. **Operationalizing Privacy**
+* **Operationalizing Privacy**
 
-One of the challenges in the privacy space for many entities is creating workable solutions to incorpriating privacy within their infrastructure. You can learn more about this project, and my forthcoming ebook, my visiting [Book](jordanfischer.me/book/).
+One of the challenges in the privacy space for many entities is creating workable solutions to incorpriating privacy within their infrastructure. You can learn more about this project, and my forthcoming eBook, by visiting [Book](jordanfischer.me/book/).
 
-3. **Creating consistencies in global data privacy management**
+* **Creating consistencies in global data privacy management**
 
 With the explosion of privacy regulations in most regions of the world, a key question is <em>how do we great effective global solutions to privacy that meet varying, and sometimes conflicting, legal requirements?</em> I work with multinational companies to research practical solutions to global privacy requirements.
 
