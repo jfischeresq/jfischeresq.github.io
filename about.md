@@ -20,7 +20,7 @@ Welcome! This is my personal website where you can learn about all of the projec
 I wear many "hats" in my day-to-day life! It keeps things interesting -- if not hectic sometimes. 
 
 #### Private Sector Lawyering
-As I alluded to above, my first (but certainly not last) leap into entrepreneurship is [XPAN Law Group, LLC](https://www.xpanlawgroup.com), a boutique international and domestic cybersecurity and data privacy law firm which I co-founded and activity co-manage. I am so proud of the business we have built, our role in changing the dialogue in how to provide legal services, and promoting women-owned law firms. 
+As I alluded to above, my first (but certainly not last) leap into entrepreneurship is [XPAN Law Group, LLC](https://www.xpanlawgroup.com), a boutique international and domestic cybersecurity and data privacy law firm which I co-founded and actively co-manage. I am so proud of the business we have built, our role in changing the dialogue in how to provide legal services, and promoting women-owned law firms. 
 
 In my day-to-day practice, I focus on all components of cybersecurity, data privacy, and the data lifecycle. XPAN provides me with an opportunity to work with some really cool companies who are grappling with global perspectives in privacy, security, technology, and information governance. As a business owner myself, I try to maintain the perspective of creating cost-effective and business oriented approaches to these challenges. 
 
