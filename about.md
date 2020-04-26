@@ -4,7 +4,6 @@ title: About
 permalink: /about/
 ---
 
-### About Me
 Welcome! This is my personal website where you can learn about all of the projects and activities I am working on! Here are some fun things about me:
 
 * I don't think I can ever sit 100% still. Sometimes, that can drive everyone around me *nuts*. But, I secretly think it is my ultimate superpower!
