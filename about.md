@@ -9,13 +9,13 @@ Welcome! This is my personal website where you can learn about all of the projec
 
 * I don't think I can ever sit 100% still. Sometimes, that can drive everyone around me *nuts*. But, I secretly think it is my ultimate superpower!
 
-* I am an avid **dog lover**! My dog, Brody is always up for cuddles, walks and runs in Philadelphia, and just hannging out! My travel requires that Brody visit his doggie grandparents often (who also spoil him a lot!). But, he will, I am sure, make many appearances on this website!
+* I am an avid **dog lover**! My dog, Brody, is always up for cuddles, walks and runs in Philadelphia, and just hanging out! My travel requires that Brody visit his doggie grandparents often (who also spoil him a lot!). But, he will, I am sure, make many appearances on this website!
 
 * I love to **travel**, and will take any excuse to hop on a plane to visit somehwere new, old -- you name it, I will agree to take the trip! My travel bug really took off in college when I lived in France (still one of my favorite countries!). 
 
 * I **coded this entire website on GitHub**. Yes, I am a lawyer. But, I am steadfastedly devoted to challenging myself to continue to learn. And, coding is soundly in the category of "new" for me! A **HUGE** thank you to [Conor Gilsenan](https://twitter.com/conorgil) for his continued patience with me learning this often confusing developer world!
 
-* I love, love, love being a **female entrepreneur** and building a business. It has been the greatest life challenge and the most rewarding thing to date. Yes, the days can be long, but the rewards are incredible. I hope that my story helps others to "take the leap" into entrepreneurship. I have never regretted it.
+* I love, love, love being a **female entrepreneur** and building a business. It has been the greatest life challenge and the most fulfilling journey I have embarked on to date! Yes, the days can be long, but the rewards are incredible. I hope that my story helps others to "take the leap" into entrepreneurship. I have never regretted it.
 
 I wear many "hats" in my day-to-day life! It keeps things interesting -- if not hectic sometimes. 
 
