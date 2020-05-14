@@ -16,6 +16,8 @@ Here you can find links to some of my past talks:
 
 Here are links to podcasts where I have been interviewed:
 
+* Compliance Perspectives Podcast wih Adam Turteltaub, [Data Privacy & Risk] (https://complianceandethics.org/jordan-fischer-on-privacy-data-risk-podcast/), 2020.05.14
+
 * Hashtag Realtalk with Aaron Bregg, Cybersecurity, Risk, Privacy and The Law in Times of Crisis, [Part 1](https://www.buzzsprout.com/768839/3172615-episode-7-cybersecurity-risk-privacy-and-the-law-in-times-of-crisis-part-1) & [Part 2](https://www.buzzsprout.com/768839/3236479), 2020.04.04
 
 * Privacy Rules, [The NY SHIELD Act](https://www.privacyrules.com/privacy-global-expertise/jordan-fischer-xpan-law-group-york-shield-act-0006085.html), 2020.03.11
