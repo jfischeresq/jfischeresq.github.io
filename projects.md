@@ -14,6 +14,12 @@ My goal: develop real solutions in the privacy, security, and technology space t
 
 Currently, I am working on a number of different projects, both academically and in the private sector:
 
+* **Geo-location Tracking and Privacy Concerns**
+
+With the increasing focus on geo-location tracking, especially in the healthcare context during COVID-19, privacy concerns are of a top concern to many individuals, businesses, and governments. As part of the many global initiatives focused on this area, I am currently working to help develop effective solutions that incorporate privacy when using statistical analysis to trace potential health outbreaks.
+
+My research partners and I submitted our initial research for the Global Legal Hackathon, a brief "sprint" project focused on legal concerns during COVID-19. Our full submission can be found [here](https://challenge.globallegalhackathon.com/gallery/5ec80f01136ce600448b0c4a). 
+
 * **Blockchain and Data Protection Laws**
 
 My initial research on this topic is summarized in this blog post, ["Blockchain and Data Protection Laws: Can they Co-Exist?"](https://xpanlawgroup.com/blockchain-and-data-protection-laws-can-they-co-exist/). 
