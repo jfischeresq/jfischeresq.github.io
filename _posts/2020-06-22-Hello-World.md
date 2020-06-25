@@ -3,7 +3,7 @@ layout: post
 title: Welcome to my personal webpage!
 ---
 
-### Welcome to my personal webpage!
+### Welcome!
 
 I am so excited to launch my personal webpage! I am very thankful to have an opportunity to work on many different projects with a variety of colleagues, friends, and family members. This webpage will be a way of providing access to those fun projects, and to explore more about my own growth and development!
 
