@@ -28,6 +28,7 @@ If you are loooking to connect with my private practice, please visit [XPAN's We
 #### Professor Role
 I love teaching and working with students. It is a true joy to continue my learning journey by providing resources and courses across a variety of of different disciplines and backgrounds. My hope is that through these educational avenues, more of us can work together to create solutions to the challenges in privacy, security, and technology.  
 
+* At UC Berkeley, I am a lecturer in the School of Information where I teach Cybersecurity in Context, exploring the interplay of law and technology. Check out my [Berkeley Profile] (https://www.ischool.berkeley.edu/people/jordan-fischer#profile-main).
 * At Drexel University, I am a faculty member of the Thomas R. Kline School of Law. In that role, I educate law students in European data protection laws and general data privacy laws. I also work with undergradaute students at the Le Bow College of Business to provide basics in privacy laws. Check out my [Drexel profile](https://drexel.edu/law/faculty/fulltime_fac/jordan-fischer/).
 * At Chestnut Hill College, I provide a course in the Master of Cybersecurity program focused on cybersecurity law. Check out the [CHC Master of Cybersecurity program](https://www.chc.edu/graduate-cybersecurity). 
 
