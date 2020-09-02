@@ -12,6 +12,8 @@ Here you can find links to some of my past talks:
 
 * Helsinki-Aalto Center for Information Security, ["The Impact of the EU’s GDPR on Northern American Companies and Cross-Border Data Management"](https://haic.fi/talks/), 2020.02.04
 
+* Truyo, an IntraEdge Product, Powered by Intel, Webinar, ["How to Build A Privacy Risk Mitigation Strategy"](https://youtu.be/ESJX6ivi4oo), 2020.09.02
+
 ### Podcasts
 
 Here are links to podcasts where I have been interviewed:
