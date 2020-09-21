@@ -29,4 +29,4 @@ In less than ONE HOUR, you can learn some key aspects of how to be thinking abou
 
 * * * * * * 
 
-Disclaimer: These videos does not constitute legal advice. The speaker does not warrant that the presentations or materials are free of errors, or will continue to be accurate. Opinions expressed are those of the speakers and statements in the presentations and the materials should be verified before relying on them.
+<em>Disclaimer: These videos does not constitute legal advice. The speaker does not warrant that the presentations or materials are free of errors, or will continue to be accurate. Opinions expressed are those of the speakers and statements in the presentations and the materials should be verified before relying on them.</em>
