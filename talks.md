@@ -19,8 +19,11 @@ Here you can find links to some of my past talks:
 Here are links to my media appearances:
 
 * Money Matters TV, [Cybersecurity for You](https://www.youtube.com/watch?v=DApqfeAfHHQ&feature=youtu.be), 2020.10
+
 * NBC 10 Philadelphia, [How to Deal With Political Text Spam](https://www.nbcphiladelphia.com/investigators/consumer/how-to-deal-with-political-text-spam/2558406/), 2020.10.08 
+
 * NBC 10 Philadelphia, [Universal Health Services Hit By Apparent Ransomware Attack](https://www.nbcphiladelphia.com/news/national-international/universal-health-services-hit-by-apparent-ransomware-attack/2546626/), 2020.9.28
+
 * Behind the Numbers, [Cybersecurity and Data Privacy](https://rvntv.tv/behind-the-numbers-51/), 2020.01.23
 
 ### Podcasts
