@@ -1,4 +1,4 @@
-# The EU Continues to Weigh-In on Cross-Border Data Transfers: Supplemental Measures to Protect Personal Data
+#The EU Continues to Weigh-In on Cross-Border Data Transfers: Supplemental Measures to Protect Personal Data
 
 In the past month, the [European Data Protection Board](https://edpb.europa.eu/) (EDPB) has provided insight into its interpretation of the EU Court of Justice (ECJ) decision in Schrems II in July 2020. As a brief recap, in <em>Schrems II</em>, the [ECJ held](http://curia.europa.eu/juris/document/document.jsf?text=&docid=228677&pageIndex=0&doclang=en) that the EU-US Privacy Shield, the mechanism to lawfully transfer personal data from the EU to the US, was invalid.The ECJ did uphold the continued use of Standard Contractual Clauses (SCCs) as a mechanism to continue to transfer personal data outside of the European Union (EU), but, with a caveat: 
 
@@ -10,27 +10,27 @@ These Recommendations provide a framework to address, or at least start to under
 
 [EU Recommendations Chart]<img width="795" alt="Screen Shot 2020-11-23 at 4 29 41 PM" src="https://user-images.githubusercontent.com/56164294/100550221-82e3d180-3246-11eb-976c-0cf65041bb0f.png">
 
-## 1. <u>Know Your Transfers</u>
+##1. <u>Know Your Transfers</u>
 The first key question to ask is: does the company transfer data internationally? And, how do you answer that? Start with <b>data mapping</b>. Data mapping can be illuminating for a number of reasons: identifying  what data you actually have, why you have it, and what you are doing with it. But, in the cross-border data context it is key: are you exporting data? Importing data? Who are you sending it to and/or receiving it from? A data map will help you to identify the true risks created by cross-border data transfers. 
 
-## 2. <u>Verify Your Transfer Tool</u>
+##2. <u>Verify Your Transfer Tool</u>
 This factor relies heavily on the valid mechanisms to transfer data under Chapter V of the GDPR. For example, if the EU Commission has already approved a receiving country under an adequacy decision, then personal data can be transferred lawfully. GDPR, Art. 45. Alternatively, companies can rely on the Standard Contractual Clasues (SCCs), Binding Corproate Rules, or other mechanisms allowed for under the GDPR. 
 
 The SCCs are also subject to revision, with the [European Commission releasing revisions](https://ec.europa.eu/info/law/better-regulation/have-your-say/initiatives/12741-Commission-Implementing-Decision-on-standard-contractual-clauses-for-the-transfer-of-personal-data-to-third-countries) for comment on November 10, 2020. The SCCs remain valid, but are now a user-beware proposition with parties subject to the SCCs clearly required to demonstrate that the protections provided adequately meet the EU data protection requirements. 
 
 As such, this step requires companies to delve into the current mechanisms used to transfer data (after mapping those data transfers in step 1) and then identifying the best mechanism to use to actually legally conduct the transfer. 
 
-## 3. <u>Assessing the Law of the Receiving Country</u>
+##3. <u>Assessing the Law of the Receiving Country</u>
 When reviewing the country that is intended to receive the personal data transferred, it is key that a company assess whether or not the privacy and security measures are adequate to address any concerns. The Recommendations emphasize that the review “should be primarily focused on third country legislation that is relevant to your transfer.” Recommendations, p. 3. This is a key scoping reference: there are many laws that may not align with EU data protection requirements, but the key is whether or not those laws would impact your transfer. 
 
 For example, in response to Schrems II, the Department of Justice, Department of Commerce and the Office of the Director of National Intellgience jointly prepared a white paper entitled, [“Information on U.S. Privacy Safeguards Relevant to SCCs and Other EU Legal Bases for EU-U.S. Data Transfers after Schrems II”](https://www.commerce.gov/sites/default/files/2020-09/SCCsWhitePaperFORMATTEDFINAL508COMPLIANT.PDF) (the “White Paper”). The White Paper made clear that certain legislation in the US that was at issue in <em>Schrems II</em>, specifically Executive Order 12333 (“EO 12333”); and (2) Section 702 of the Foreign Intelligence Surveillance Act (“FISA 702), would not apply to most companies transferring date to the US. As such, under the Recommndations, these laws would not be taken into account when assessing the receiving country’s laws. 
 
-## 4. <u>Identify and Adopt Supplemental Measures</u>
+##4. <u>Identify and Adopt Supplemental Measures</u>
 The Recommendations state that <em>if</em> “[t]his step is only necessary if your assessment reveals that the third country legislation impinges on the effectiveness of the Article 46 GDPR transfer tool you are relying on or you intend to rely on in the context of your transfer.” Recommendations, p. 3. Annex 2 of the Recommendations layout carious scenarios with corresponding supplemental measures that may be used to alleviate the privacy and legal risks associated with the continued transfer of the personal data. 
 
 Ultimately, each data transfer is analyzed, and the appropriate supplementary measures, are assess on a case-by-case basis. Recommendations, ¶ 46. This ties into the first factor, data mapping. Without a deeper understanding of where the data is going, and what is happening to the data once transferred, it is challenging to even start to identify the appropriate supplemental measures. It is the combination of the appropriate legal transfer tool <em>plus</em> the supplemental measures that allow the transfer to move forward. Recommendations, ¶ 51.
 
-## 5. <u>Formal Procedural Steps</u>
+##5. <u>Formal Procedural Steps</u>
 Once a path forward is determined, the companies transferring the personal data must execute formal documentation of such transfer, and comply with the requirements of the chosen transfer tool.
 
 ##.6 <u>Accountability</u>
@@ -40,7 +40,7 @@ A key component of all data protection requirements under the GDPR is documentat
 
 A “set it and forget it” approach is not permissible: the company must continue to monitor legal and regulatory developments in the recipient country to continue to confirm that the legal tool used to transfer the personal data and the supplementary measures remain valid. 
 
-# Taking the First Steps
+#Taking the First Steps
 While the Recommendations are still under consideration, they do point to a need for deep analysis of both your data flows and the reason for those data transfers. For many companies, the inclusion of Standard Contractual Clauses to all agreements has become standard. But, those agreements, and the legal tool to transfer data uner those agreements, need to be addressed on a case-by-case basis, with an understanding of the legal requirements and the corresponding risks. Start today with an assessment of your current infrastructure, and identifying the international data transfers. This information will be key in helping to identify the necessary next steps. 
  
 <div align="center"> * * * * * *
