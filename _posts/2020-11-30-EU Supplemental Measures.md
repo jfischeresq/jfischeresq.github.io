@@ -46,6 +46,6 @@ A “set it and forget it” approach is not permissible: the company must conti
 ### Taking the First Steps
 While the Recommendations are still under consideration, they do point to a need for deep analysis of both your data flows and the reason for those data transfers. For many companies, the inclusion of Standard Contractual Clauses to all agreements has become standard. But, those agreements, and the legal tool to transfer data uner those agreements, need to be addressed on a case-by-case basis, with an understanding of the legal requirements and the corresponding risks. Start today with an assessment of your current infrastructure, and identifying the international data transfers. This information will be key in helping to identify the necessary next steps. 
  
-<div align="center"> * * * * * *
+<div align="center">* * * * * *
 
 <div align="center"><em>Nothing contained in this blog should be construed as creating an attorney-client relationship or providing legal advice of any kind. If you have a legal issue regarding cybersecurity, domestic or international data privacy, or electronic discovery, you should consult a licensed attorney in your jurisdiction.</em>
