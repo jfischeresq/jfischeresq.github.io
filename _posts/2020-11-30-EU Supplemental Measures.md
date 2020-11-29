@@ -1,6 +1,6 @@
 ---
 layout: post
-title: The EU Continues to Weigh-In on Cross-Border Data Transfers: Supplemental Measures to Protect Personal Data
+title: The EU Recommends Supplemental Measures to Protect Personal Data in Cross-Border Data Transfers
 ---
 
 In the past month, the [European Data Protection Board](https://edpb.europa.eu/) (EDPB) has provided insight into its interpretation of the EU Court of Justice (ECJ) decision in Schrems II in July 2020. As a brief recap, in <em>Schrems II</em>, the [ECJ held](http://curia.europa.eu/juris/document/document.jsf?text=&docid=228677&pageIndex=0&doclang=en) that the EU-US Privacy Shield, the mechanism to lawfully transfer personal data from the EU to the US, was invalid.The ECJ did uphold the continued use of Standard Contractual Clauses (SCCs) as a mechanism to continue to transfer personal data outside of the European Union (EU), but, with a caveat: 
