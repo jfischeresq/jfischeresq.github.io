@@ -19,11 +19,11 @@ Welcome! This is my personal website where you can learn about all of the projec
 I wear many "hats" in my day-to-day life! It keeps things interesting -- if not hectic sometimes. 
 
 #### Private Sector Lawyering
-As I alluded to above, my first (but certainly not last) leap into entrepreneurship is [XPAN Law Group, LLC](https://www.xpanlawgroup.com), a boutique international and domestic cybersecurity and data privacy law firm which I co-founded and actively co-manage. I am so proud of the business we have built, our role in changing the dialogue in how to provide legal services, and promoting women-owned law firms. 
+As I alluded to above, my first (but certainly not last) leap into entrepreneurship is the development of my private law practice, first at my own law firm and now as the Global Privacy Team Lead at [Beckage](https://www.beckage.com/), an international and domestic data security and data privacy law firm. I am so proud of the many leaps into entrepreneurship that I have taken in building a business, my role in changing the dialogue in how to provide legal services, and promoting women-owned law firms. 
 
 In my day-to-day practice, I focus on all components of cybersecurity, data privacy, and the data lifecycle. XPAN provides me with an opportunity to work with some really cool companies who are grappling with global challenges in privacy, security, technology, and information governance. As a business owner myself, I try to maintain the perspective of creating cost-effective and business oriented approaches to this complex and evolving area of the law. 
 
-If you are loooking to connect with my private practice, please visit [XPAN's Website](https://www.xpanlawgroup.com) or contact me at [jfischer@xpanlawgroup.com](mailto:jfischer@xpanlawgroup.com).
+If you are loooking to connect with my private practice, please visit [Beckage's Website](https://www.beckage.com/) or contact me at [jfischer@beckage.com](mailto:jfischer@beckage.com).
 
 #### Professor Role
 I love teaching and working with students. It is a true joy to continue my learning journey by providing resources and courses across a variety of of different disciplines and backgrounds. My hope is that through these educational avenues, more of us can work together to create solutions to the challenges in privacy, security, and technology.  
