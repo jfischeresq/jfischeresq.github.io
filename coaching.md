@@ -4,9 +4,9 @@ title: Coaching
 permalink: /coaching/
 ---
 
-###Coaching
+## Are you wondering if one-on-one coaching is right for you, or worth the investment?
 
-<em>Are you wondering if one-on-one coaching is right for you, or worth the investment?</em> I have certainly asked that same question over the years. 
+<em>I have certainly asked that same question over the years.</em>  
 
 Working with my clients and community, I have learned that in order to create real and lasting change, you need to commit to yourself with serious skin in the game. And, investing in a coach or mentor is potentially the best investment you can make in your own growth. It was, and contiues to be, for me, hands down, the best investment I make: <em>investing in myself</em>. It creates a sense of dedication directly tied to your commitment to growth. And, ultimately, that commitment leads to <bold>results</bold>.
 
