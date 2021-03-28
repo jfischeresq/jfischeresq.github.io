@@ -4,6 +4,7 @@ title: Coaching
 permalink: /coaching/
 ---
 
+<img src="images/web-3706562_1920.jpg" alt="Digital Head">
 ## Are you wondering if one-on-one coaching is right for you, or worth the investment?
 
 <u>What is coaching?</u> Coaching provides a dedicated space for you to work on yourself and your goals. In our sessions, we will work on creating a concrete action plan, think of its as your <em>personal business plan</em>, delving into helpful resources and determing your next steps. For so many of us, it is this first step that is the hardest; and, with coaching, we can get you moving and thriving with a concrete action plan. I have developed a unique approach to coaching, mixing in conversation, weekly action items, and feedback. This is not solely about learning new things and adding new tools into your toolkit that you might use at some point in the future. Our goal will be to focus on learning skills to create real and lifelong change.  The strategies we’ll be working on together are yours to use for life, and to share with those you care about.
