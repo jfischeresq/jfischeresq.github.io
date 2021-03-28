@@ -21,7 +21,7 @@ I wear many "hats" in my day-to-day life! It keeps things interesting -- if not 
 #### Private Sector Lawyering
 As I alluded to above, my first (but certainly not last) leap into entrepreneurship is the development of my private law practice, first at my own law firm and now as the Global Privacy Team Lead at [Beckage](https://www.beckage.com/), an international and domestic data security and data privacy law firm. I am so proud of the many leaps into entrepreneurship that I have taken in building a business, my role in changing the dialogue in how to provide legal services, and promoting women-owned law firms. 
 
-In my day-to-day practice, I focus on all components of cybersecurity, data privacy, and the data lifecycle. XPAN provides me with an opportunity to work with some really cool companies who are grappling with global challenges in privacy, security, technology, and information governance. As a business owner myself, I try to maintain the perspective of creating cost-effective and business oriented approaches to this complex and evolving area of the law. 
+In my day-to-day practice, I focus on all components of cybersecurity, data privacy, and the data lifecycle. Beckage provides me with an opportunity to work with some really cool companies who are grappling with global challenges in privacy, security, technology, and information governance. As a business owner myself, I try to maintain the perspective of creating cost-effective and business oriented approaches to this complex and evolving area of the law. 
 
 If you are loooking to connect with my private practice, please visit [Beckage's Website](https://www.beckage.com/) or contact me at [jfischer@beckage.com](mailto:jfischer@beckage.com).
 
