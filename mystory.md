@@ -4,7 +4,7 @@ title: My Story
 permalink: /mystory/
 ---
 
-<img style="float: right;" src="![Jordan Fischer](images/21.04.16 J. Fischer Drexel Photo.JPG">)
+<img style="float: right;" src="!(images/21.04.16 J. Fischer Drexel Photo.JPG)">
 
 Welcome! This is my personal website where you can learn about all of the projects and activities I am working on! Here are some fun things about me:
 
