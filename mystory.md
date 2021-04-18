@@ -4,6 +4,8 @@ title: My Story
 permalink: /mystory/
 ---
 
+![Jordan Fischer](images/21.04.16 J. Fischer Drexel Photo.JPG)
+
 Welcome! This is my personal website where you can learn about all of the projects and activities I am working on! Here are some fun things about me:
 
 * I don't think I can ever sit 100% still. Sometimes, that can drive everyone around me *nuts*. But, I secretly think it is my ultimate superpower!
