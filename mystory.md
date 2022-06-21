@@ -10,7 +10,7 @@ Welcome! This is my personal website where you can learn about all of the projec
 
 * I don't think I can ever sit 100% still. Sometimes, that can drive everyone around me *nuts*. But, I secretly think it is my ultimate superpower!
 
-* I am an avid **dog lover**! My dog, Brody, is always up for cuddles, walks and runs in Philadelphia, and just hanging out! My travel requires that Brody visit his doggie grandparents often (who also spoil him a lot!). But, he will, I am sure, make many appearances on this website!
+* I am an avid **dog lover**! My dogs, Brody and Bella, are always up for cuddles, walks and runs in the suburbs of Philadelphia, and just hanging out! 
 
 * I love to **travel**, and will take any excuse to hop on a plane to visit somehwere new, old -- you name it, I will agree to take the trip! My travel bug really took off in college when I lived in France (still one of my favorite countries!). 
 
@@ -21,11 +21,11 @@ Welcome! This is my personal website where you can learn about all of the projec
 I wear many "hats" in my day-to-day life! It keeps things interesting -- if not hectic sometimes. 
 
 #### Private Sector Lawyering
-As I alluded to above, my first (but certainly not last) leap into entrepreneurship is the development of my private law practice, first at my own law firm and now as the Global Privacy Team Lead at [Beckage](https://www.beckage.com/), an international and domestic data security and data privacy law firm. I am so proud of the many leaps into entrepreneurship that I have taken in building a business, my role in changing the dialogue in how to provide legal services, and promoting women-owned law firms. 
+As I alluded to above, my first (but certainly not last) leap into entrepreneurship is the development of my private law practice, first at my own law firm and now as the Global Compliance and Advisory Team Lead at [Octillo](https://www.octillolaw.com/), an international and domestic data security and data privacy law firm. I am so proud of the many leaps into entrepreneurship that I have taken in building a business, my role in changing the dialogue in how to provide legal services, and promoting women-owned law firms. 
 
 In my day-to-day practice, I focus on all components of cybersecurity, data privacy, and the data lifecycle. Beckage provides me with an opportunity to work with some really cool companies grappling with global challenges in privacy, security, technology, and information governance. As a business owner myself, I try to maintain the perspective of creating cost-effective and business oriented approaches to this complex and evolving area of the law. 
 
-If you are loooking to connect with my private practice, please visit [Beckage's Website](https://www.beckage.com/) or contact me at [jfischer@beckage.com](mailto:jfischer@beckage.com).
+If you are loooking to connect with my private practice, please visit [Octillo's Website](https://www.octillolaw.com/) or contact me at [jfischer@octillolaw.com](mailto:jfischer@octillolaw.com).
 
 #### Professor Role
 I love teaching and working with students. It is a true joy to continue my learning journey by providing resources and courses across a variety of of different disciplines and backgrounds. My hope is that through these educational avenues, more of us can work together to create solutions to the challenges in privacy, security, and technology.  
