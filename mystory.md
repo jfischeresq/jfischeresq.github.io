@@ -21,18 +21,17 @@ Welcome! This is my personal website where you can learn about all of the projec
 I wear many "hats" in my day-to-day life! It keeps things interesting -- if not hectic sometimes. 
 
 #### Private Sector Lawyering
-As I alluded to above, my first (but certainly not last) leap into entrepreneurship is the development of my private law practice, first at my own law firm and now as the Global Compliance and Advisory Team Lead at [Octillo](https://www.octillolaw.com/), an international and domestic data security and data privacy law firm. I am so proud of the many leaps into entrepreneurship that I have taken in building a business, my role in changing the dialogue in how to provide legal services, and promoting women-owned law firms. 
+As I alluded to above, my first (but certainly not last) leap into entrepreneurship is the development of my private law practice, first at my own law firm and now as a Partner at the CYBER Team with [Constangy, Brooks, Smith & Prophete](https://www.constangy.com/), an employment law and cybersecurity law firm. I am so proud of the many leaps into entrepreneurship that I have taken in building a business, my role in changing the dialogue in how to provide legal services, and promoting women-owned law firms. 
 
-In my day-to-day practice, I focus on all components of cybersecurity, data privacy, and the data lifecycle. Beckage provides me with an opportunity to work with some really cool companies grappling with global challenges in privacy, security, technology, and information governance. As a business owner myself, I try to maintain the perspective of creating cost-effective and business oriented approaches to this complex and evolving area of the law. 
+In my day-to-day practice, I focus on all components of cybersecurity, data privacy, and the data lifecycle. Constangy provides me with an opportunity to work with some really cool companies grappling with global challenges in privacy, security, technology, and information governance. As a business owner myself, I try to maintain the perspective of creating cost-effective and business oriented approaches to this complex and evolving area of the law. 
 
-If you are loooking to connect with my private practice, please visit [Octillo's Website](https://www.octillolaw.com/) or contact me at [jfischer@octillolaw.com](mailto:jfischer@octillolaw.com).
+If you are loooking to connect with my private practice, please visit [Constangy's Website]([https://www.octillolaw.com/](https://www.constangy.com/)) or contact me at [jfischer@constangy.com](mailto:jfischer@constangy.com).
 
 #### Professor Role
 I love teaching and working with students. It is a true joy to continue my learning journey by providing resources and courses across a variety of of different disciplines and backgrounds. My hope is that through these educational avenues, more of us can work together to create solutions to the challenges in privacy, security, and technology.  
 
 * At UC Berkeley, I am a lecturer in the School of Information where I teach Cybersecurity in Context, exploring the interplay of law and technology. Check out my [Berkeley Profile](https://www.ischool.berkeley.edu/people/jordan-fischer#profile-main). I also am involved in research and projects at the Berkeley Laboratory For Usable Security and Experimental Security([BLUES](https://blues.cs.berkeley.edu/people/jordan_fischer/)).
 * At Drexel University, I am a faculty member of the Thomas R. Kline School of Law. In that role, I educate law students in European data protection laws and general data privacy laws. I also work with undergradaute students at the Le Bow College of Business to provide basics in privacy laws. Check out my [Drexel profile](https://drexel.edu/law/faculty/fulltime_fac/jordan-fischer/).
-* At Chestnut Hill College, I provide a course in the Master of Cybersecurity program focused on cybersecurity law. Check out the [CHC Master of Cybersecurity program](https://www.chc.edu/graduate-cybersecurity). 
 
 ### Contact me
 
