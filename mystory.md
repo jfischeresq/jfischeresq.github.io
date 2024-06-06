@@ -21,11 +21,11 @@ Welcome! This is my personal website where you can learn about all of the projec
 I wear many "hats" in my day-to-day life! It keeps things interesting -- if not hectic sometimes. 
 
 #### Private Sector Lawyering
-As I alluded to above, my first (but certainly not last) leap into entrepreneurship is the development of my private law practice, first at my own law firm and now as a Partner at the CYBER Team with [Constangy, Brooks, Smith & Prophete](https://www.constangy.com/), an employment law and cybersecurity law firm. I am so proud of the many leaps into entrepreneurship that I have taken in building a business, my role in changing the dialogue in how to provide legal services, and promoting women-owned law firms. 
+As I alluded to above, my first (but certainly not last) leap into entrepreneurship is the development of my private law practice, running a women-owned law firm focused exclusively on data privacy, cybersecurity, and technology law, [Fischer Law](https://jordanfischerlaw.com/). I am so proud of the many leaps into entrepreneurship that I have taken in building a business, my role in changing the dialogue in how to provide legal services, and promoting women-owned law firms. 
 
-In my day-to-day practice, I focus on all components of cybersecurity, data privacy, and the data lifecycle. Constangy provides me with an opportunity to work with some really cool companies grappling with global challenges in privacy, security, technology, and information governance. As a business owner myself, I try to maintain the perspective of creating cost-effective and business oriented approaches to this complex and evolving area of the law. 
+In my day-to-day practice, I focus on all components of cybersecurity, data privacy, and the data lifecycle. I love that I get the opportunity to work with some really cool companies grappling with global challenges in privacy, security, technology, and information governance. As a business owner myself, I try to maintain the perspective of creating cost-effective and business oriented approaches to this complex and evolving area of the law. 
 
-If you are loooking to connect with my private practice, please visit [Constangy's Website]([https://www.octillolaw.com/](https://www.constangy.com/)) or contact me at [jfischer@constangy.com](mailto:jfischer@constangy.com).
+If you are loooking to connect with my private practice, please visit [Fischer Laws's Website](https://jordanfischerlaw.com/) or contact me at [jfischer@jordanfischerlaw.com](mailto:jfischer@jordanfischerlaw.com).
 
 #### Professor Role
 I love teaching and working with students. It is a true joy to continue my learning journey by providing resources and courses across a variety of of different disciplines and backgrounds. My hope is that through these educational avenues, more of us can work together to create solutions to the challenges in privacy, security, and technology.  
